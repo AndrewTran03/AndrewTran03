@@ -17,6 +17,7 @@
     <p align="left">
         <a href="https://www.capitalonecareers.com/" target="_blank" rel="noreferrer"><img align="center" src="https://tse1.mm.bing.net/th?id=OIP.N3EYFYJudoJLpcjMcsdPkQHaHa&pid=Api&P=0" alt="Capital One Banking Logo" width="40" height="40"/></a>
         <a href="https://www.zai.com/#!/" target="_blank" rel="noreferrer"><img align="center" src="https://media.glassdoor.com/sqll/1464469/zeta-associates-squarelogo-1536056437732.png" alt="Zeta Associates Logo" width="40" height="40"/></a>
+        <a href="https://hosting.cs.vt.edu/uta/" target="_blank" rel="noreferrer"><img align="center" src="https://www.underconsideration.com/brandnew/archives/virginia_tech_logo_color.png" alt="Virginia Tech Logo (for My Computer Science UTA Position)" width="40" height="40"/></a>
     </p>
 </div>
 
