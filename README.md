@@ -7,6 +7,7 @@
 <div id="top_images_and_links">
     <p align="center">
         <a href="https://www.linkedin.com/in/andrew-tran-a15760205/" target="_blank" rel="noreferrer"><img align="middle" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blue LinkedIn Badge"/></a>
+        <br></br>
         <a href="https://andrewtran03.github.io/" target="_blank" rel="noreferrer"><img align="middle" src="https://img.shields.io/badge/Personal_Website-red?style=for-the-badge&logoColor=white" alt="Red Button to My Personal Website"/></a>
         <img align="middle" src="https://komarev.com/ghpvc/?username=AndrewTran03&style=flat-square&color=blue" alt="Total GitHub Profile View Count"/>
     </p>
