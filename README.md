@@ -23,7 +23,7 @@
 </div>
 
 <div id="programming_languages_and_other_tech_tool_badges">
-    <h3 align="left">Knowledge of Following Programming Languages and Tools:</h3>
+    <h3 align="left">Knowledge of the Following Programming Languages and Tools:</h3>
         <p align="left">
             <a href="https://www.java.com" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java Programming Langugage Badge" width="40" height="40"/>
