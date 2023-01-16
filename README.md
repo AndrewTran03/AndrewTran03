@@ -5,6 +5,13 @@
 <h3 align="center">Currently Pursuing: B.S. Computer Science and Mathematics Minor at Virginia Tech</h3>
 
 <div id="top_images_and_links">
+    <p align="center">
+        <a href="https://www.linkedin.com/in/andrew-tran-a15760205/" target="_blank" rel="noreferrer"><img align="middle" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blue LinkedIn Badge"/></a>
+        <a href="https://andrewtran03.github.io/" target="_blank" rel="noreferrer"><img align="middle" src="https://img.shields.io/badge/Personal_Website-red?style=for-the-badge&logoColor=white" alt="Red Button to My Personal Website"/></a>
+        <br></br>
+        <img align="middle" src="https://komarev.com/ghpvc/?username=AndrewTran03&style=flat-square&color=blue" alt="Total GitHub Profile View Count"/>
+    </p>
+    <!---
     <center>
         <a href="https://www.linkedin.com/in/andrew-tran-a15760205/" target="_blank" rel="noreferrer"><img align="middle" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blue LinkedIn Badge"/></a>
         <a href="https://andrewtran03.github.io/" target="_blank" rel="noreferrer"><img align="middle" src="https://img.shields.io/badge/Personal_Website-red?style=for-the-badge&logoColor=white" alt="Red Button to My Personal Website"/></a>
@@ -13,6 +20,7 @@
     <center>
         <img align="middle" src="https://komarev.com/ghpvc/?username=AndrewTran03&style=flat-square&color=blue" alt="Total GitHub Profile View Count"/>
     </center>
+    --->
 </div>
 
 <div id="work_experiences_and_logos">
