@@ -1,27 +1,15 @@
 <h1 align="center">Hello, I'm Andrew Tran
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30"/>
 </h1>
-<h3 align="center">Junior in Computer Science</h3>
-<h3 align="center">Currently Pursuing: B.S. Computer Science and Mathematics Minor at Virginia Tech</h3>
+<h3 align="center">Junior in Computer Science<br/>Currently Pursuing: B.S. Computer Science and Mathematics Minor at Virginia Tech</h3>
 
 <div id="top_images_and_links">
     <p align="center">
         <a href="https://www.linkedin.com/in/andrew-tran-a15760205/" target="_blank" rel="noreferrer"><img align="middle" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blue LinkedIn Badge"/></a>
         <a href="https://andrewtran03.github.io/" target="_blank" rel="noreferrer"><img align="middle" src="https://img.shields.io/badge/Personal_Website-red?style=for-the-badge&logoColor=white" alt="Red Button to My Personal Website"/></a>
-        <h3 align="center">
-            <img align="middle" src="https://komarev.com/ghpvc/?username=AndrewTran03&style=flat-square&color=blue" alt="Total GitHub Profile View Count"/>
-        </h3>
-    </p>
-    <!---
-    <center>
-        <a href="https://www.linkedin.com/in/andrew-tran-a15760205/" target="_blank" rel="noreferrer"><img align="middle" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Blue LinkedIn Badge"/></a>
-        <a href="https://andrewtran03.github.io/" target="_blank" rel="noreferrer"><img align="middle" src="https://img.shields.io/badge/Personal_Website-red?style=for-the-badge&logoColor=white" alt="Red Button to My Personal Website"/></a>
-    </center>
-    <br></br>
-    <center>
+        <br/>
         <img align="middle" src="https://komarev.com/ghpvc/?username=AndrewTran03&style=flat-square&color=blue" alt="Total GitHub Profile View Count"/>
-    </center>
-    --->
+    </p>
 </div>
 
 <div id="work_experiences_and_logos">
