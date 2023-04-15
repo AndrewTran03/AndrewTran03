@@ -67,13 +67,27 @@
             <a href="https://nodejs.org" target="_blank" rel="noreferrer">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js Javascript Framework Badge" width="40" height="40"/>
             </a>
-            <a href="https://www.r-project.org/other-docs.html" target="_blank" rel="noreferrer"><img src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" alt="R Programming Language Badge" width="40" height="40"/></a>
-            <a href="https://docs.oracle.com/cd/E19641-01/802-1948/802-1948.pdf" target="_blank" rel="noreferrer"><img src="https://cn.ubuntu.com/static/img/internet-of-things/X86-512.png" alt="x86-64 Assembly Programming Language Badge" width="40" height="40"></a>
-            <a href="https://riscv.org/learn/" target="_blank" rel="noreferrer"><img src="https://tse4.mm.bing.net/th?id=OIP.bf1Q7koZ-ZSPBGlWjLZ68QHaEK&pid=Api&P=0" alt="RISC-V Assembly Programming Language Badge" width="40" height="40"/></a>
-            <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Terminal Programming Badge" width="40" height="40"/></a>
-            <a href="https://learn.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer"><img src="https://tse1.mm.bing.net/th?id=OIP.YtCUp0BuRKZZp3WY96-NAQHaHa&pid=Api&P=0" alt="Windows OS Programming Badge" width="40" height="40"/></a>
-            <a href="https://git-scm.com/downloads" target="_blank" rel="noreferrer"><img src="https://tse4.mm.bing.net/th?id=OIP.KuZdLXaqLfpz-UUU6sH1PQHaHa&pid=Api&P=0" alt="Git Bash Terminal Programming Badge" width="40" height="40"/></a>
-            <a href="https://www.office.com/" target="_blank" rel="noreferrer"><img src="https://tse3.mm.bing.net/th?id=OIP.m0k8In7Z4-4jdeyO417lgAHaHa&pid=Api&P=0" alt="Microsoft Office Badge" width="40" height="40"></a>
+            <a href="https://www.r-project.org/other-docs.html" target="_blank" rel="noreferrer">
+                <img src="https://workingnation.com/wp-content/uploads/2018/05/R_logo.svg_.png" alt="R Programming Language Badge" width="40" height="40"/>
+            </a>
+            <a href="https://docs.oracle.com/cd/E19641-01/802-1948/802-1948.pdf" target="_blank" rel="noreferrer">
+                <img src="https://cn.ubuntu.com/static/img/internet-of-things/X86-512.png" alt="x86-64 Assembly Programming Language Badge" width="40" height="40">
+            </a>
+            <a href="https://riscv.org/learn/" target="_blank" rel="noreferrer">
+                <img src="https://zhwu95.gallerycdn.vsassets.io/extensions/zhwu95/riscv/0.0.7/1588386880562/Microsoft.VisualStudio.Services.Icons.Default" alt="RISC-V Assembly Programming Language Badge" width="40" height="40"/>
+            </a>
+            <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux Terminal Programming Badge" width="40" height="40"/>
+            </a>
+            <a href="https://learn.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer">
+                <img src="https://tse1.mm.bing.net/th?id=OIP.YtCUp0BuRKZZp3WY96-NAQHaHa&pid=Api&P=0" alt="Windows OS Programming Badge" width="40" height="40"/>
+            </a>
+            <a href="https://git-scm.com/downloads" target="_blank" rel="noreferrer">
+                <img src="https://tse4.mm.bing.net/th?id=OIP.KuZdLXaqLfpz-UUU6sH1PQHaHa&pid=Api&P=0" alt="Git Bash Terminal Programming Badge" width="40" height="40"/>
+            </a>
+            <a href="https://www.office.com/" target="_blank" rel="noreferrer">
+                <img src="https://tse3.mm.bing.net/th?id=OIP.m0k8In7Z4-4jdeyO417lgAHaHa&pid=Api&P=0" alt="Microsoft Office Badge" width="40" height="40">
+            </a>
         </p>
     </h3>
 </div>
