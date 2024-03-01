@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Wave GIF" width="30" height="30"/>
     , I'm Andrew Tran
 </h1>
-<h3 align="center">Junior in Computer Science<br/>Currently Pursuing: B.S. Computer Science and Mathematics Minor at Virginia Tech</h3>
+<h3 align="center">Senior in Computer Science<br/>Currently Pursuing: B.S. Computer Science and Mathematics Minor at Virginia Tech</h3>
 
 <div id="top_images_and_links">
     <p align="center">
