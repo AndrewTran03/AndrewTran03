@@ -14,13 +14,9 @@
 </div>
 
 <!-- Reference: https://github.com/anuraghazra/github-readme-stats/tree/master -->
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=AndrewTran03&theme=ocean_dark&show_icons=true&rank_icon=github" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewTran03&theme=ocean_dark&hide=html,css,jupyter notebook&langs_count=10&layout=compact" /></td>
-    </tr>
-  </table>
+<div id="github_stats" align="center">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AndrewTran03&theme=ocean_dark&show_icons=true&rank_icon=github" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewTran03&theme=ocean_dark&hide=html,css,jupyter notebook&langs_count=10&layout=compact" />
 </div>
 
 <div id="work_experiences_and_logos">
