@@ -24,7 +24,7 @@
     <p align="left">
         <a href="https://www.tesla.com/" target="_blank" rel="noreferrer"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa63z1PXA2jAtIj8-fgZ-4pFeck3NupEwmXw&s" alt="Tesla Logo" width="40" height="40"/></a>
         <a href="https://www.capitalonecareers.com/" target="_blank" rel="noreferrer"><img align="center" src="https://tse1.mm.bing.net/th?id=OIP.N3EYFYJudoJLpcjMcsdPkQHaHa&pid=Api&P=0" alt="Capital One Banking Logo" width="40" height="40"/></a>
-        <a href="https://www.zai.com/" target="_blank" rel="noreferrer"><img align="center" src="https://media.glassdoor.com/sqll/1464469/zeta-associates-squarelogo-1536056437732.png" alt="Zeta Associates Logo" width="40" height="40"/></a> 
+        <a href="https://www.zai.com/" target="_blank" rel="noreferrer"><img align="center" src="https://media.licdn.com/dms/image/v2/C560BAQF17Et7UEke9Q/company-logo_200_200/company-logo_200_200/0/1631304344388?e=2147483647&v=beta&t=sOFTD_89QCidLTUbsBpqQUzyw0hLVD7TbOqzUhdjbws" alt="Zeta Associates Logo" width="40" height="40"/></a> 
         <a href="https://hosting.cs.vt.edu/uta/" target="_blank" rel="noreferrer"><img align="center" src="https://www.underconsideration.com/brandnew/archives/virginia_tech_logo_color.png" alt="Virginia Tech Logo (for My Computer Science UTA Position)" width="40" height="40"/></a>
     </p>
 </div>
