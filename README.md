@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Wave GIF" width="30" height="30"/>
     , I'm Andrew Tran
 </h1>
-<h3 align="center">Master's of Engineering Student in Computer Science<br/>Aspiring Software Engineer in AI/ML Development and/or Full-Stack Development</h3>
+<h3 align="center">Recent Master's of Engineering New-Grad in Computer Science<br/>Aspiring Software Engineer in AI/ML Development and/or Full-Stack Development</h3>
 
 <div id="top_images_and_links">
     <p align="center">
